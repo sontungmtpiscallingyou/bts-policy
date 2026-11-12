@@ -1,0 +1,99 @@
+{
+  "markets": {
+    "com.shopee.vn": {
+      "badge_text": "Gợi ý phụ kiện BTS • Tiếp thị liên kết",
+      "headline": "Bộ sưu tập phụ kiện hot cho bạn",
+      "cta_text": "Sắm trên Shopee",
+      "items": [
+        {
+          "id": "bts_vn_02",
+          "title": "Móc Khóa BTS Jin Suga Jhope RM Jimin V Jungkook Làm Quà Tặng Phụ Kiện",
+          "price": "13.000đ",
+          "original_price": "26.000đ",
+          "image_url": "https://down-bs-vn.img.susercontent.com/sg-11134201-823pb-moqktj3h5lanca.webp",
+          "aff_link": "https://s.shopee.vn/114P7Kob1q"
+        },
+        {
+          "id": "bts_vn_03",
+          "title": "[BTS] 34 Mẫu Móc Khóa, Huy Hiệu Sắt BTS Thành Viên Ban Nhạc Kích Thước 4.4cm",
+          "price": "15.000đ",
+          "original_price": "22.000đ",
+          "image_url": "https://down-bs-vn.img.susercontent.com/sg-11134201-8258l-mtg6zss0gaa076.webp",
+          "aff_link": "https://s.shopee.vn/40i0gu3OQq"
+        },
+        {
+          "id": "bts_vn_05",
+          "title": "[Limited Edition] OREO BTS Bánh Quy Tím Vị Đường Nâu Hotteok 105g",
+          "price": "18.000đ",
+          "original_price": "30.000đ",
+          "image_url": "https://down-zl-vn.img.susercontent.com/vn-11134207-81ztc-mppz06pv8mq6a5.webp",
+          "aff_link": "https://s.shopee.vn/9fMNf5ezqF"
+        },
+        {
+          "id": "bts_vn_04",
+          "title": "Móc Khóa Noel Giáng Sinh BTS Acrylic Thần Tượng Hàn Quốc",
+          "price": "19.155đ",
+          "original_price": "35.000đ",
+          "image_url": "https://down-bs-vn.img.susercontent.com/sg-11134201-824gh-mpnldthk934fd2.webp",
+          "aff_link": "https://s.shopee.vn/9V2xF1ykxh"
+        },
+        {
+          "id": "bts_vn_01",
+          "title": "Event BTS - Lens 1 NGÀY DNA / IDOL - Seoullens Kính áp tròng Hàn Quốc",
+          "price": "29.500đ",
+          "original_price": "50.000đ",
+          "image_url": "https://down-aka-vn.img.susercontent.com/vn-11134207-81ztc-mqbdh80oqwpbd6.webp",
+          "aff_link": "https://s.shopee.vn/20wwDx1cSe"
+        }
+      ]
+    },
+    "com.shopee.id": {
+      "badge_text": "Pilihan Aksesoris BTS • Sponsored",
+      "headline": "Koleksi Aksesoris Favorit ARMY",
+      "cta_text": "Beli di Shopee",
+      "items": []
+    },
+    "com.shopee.ph": {
+      "badge_text": "BTS Merch Picks • Sponsored",
+      "headline": "Top BTS ARMY Collectibles",
+      "cta_text": "View on Shopee",
+      "items": []
+    },
+    "com.shopee.th": {
+      "badge_text": "สินค้า BTS แนะนำ • สปอนเซอร์",
+      "headline": "คอลเลกชันสุดพิเศษสำหรับ ARMY",
+      "cta_text": "ดูบน Shopee",
+      "items": []
+    },
+    "com.shopee.br": {
+      "badge_text": "Achadinhos BTS • Patrocinado",
+      "headline": "Colecionáveis BTS ARMY Favoritos",
+      "cta_text": "Ver na Shopee",
+      "items": []
+    },
+    "com.shopee.my": {
+      "badge_text": "BTS Picks • Sponsored",
+      "headline": "Exclusive BTS ARMY Merch",
+      "cta_text": "Shop on Shopee",
+      "items": []
+    },
+    "com.shopee.sg": {
+      "badge_text": "BTS Picks • Sponsored",
+      "headline": "Top BTS ARMY Collectibles in SG",
+      "cta_text": "Shop on Shopee",
+      "items": []
+    },
+    "com.shopee.tw": {
+      "badge_text": "BTS 必買周邊 • 贊助",
+      "headline": "熱門 BTS 防彈少年團周邊精選",
+      "cta_text": "前往蝦皮逛 văn",
+      "items": []
+    },
+    "com.shopee.mx": {
+      "badge_text": "Colección BTS • Patrocinado",
+      "headline": "Coleccionables BTS ARMY Favoritos",
+      "cta_text": "Comprar en Shopee",
+      "items": []
+    }
+  }
+}
