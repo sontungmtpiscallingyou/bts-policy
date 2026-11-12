@@ -57,7 +57,48 @@
       "badge_text": "BTS Merch Picks • Sponsored",
       "headline": "Top BTS ARMY Collectibles",
       "cta_text": "View on Shopee",
-      "items": []
+      "items": [
+        {
+          "id": "bts_ph_01",
+          "title": "500 Stickers/Roll BTS Bangtan Boys DIY Deco Sealing Sticker Roll",
+          "price": "₱39",
+          "original_price": "₱80",
+          "image_url": "https://down-ph.img.susercontent.com/file/cn-11134207-820l4-mt4xzk0mbife9a.webp",
+          "aff_link": "https://invl.me/clo8g3j"
+        },
+        {
+          "id": "bts_ph_02",
+          "title": "55Pcs/Box JIMIN & JUNGKOOK Solo Album LOMO Cards Photocards",
+          "price": "₱49",
+          "original_price": "₱99",
+          "image_url": "https://down-ph.img.susercontent.com/file/ph-11134207-81zte-mhlpr684y1hc3e.webp",
+          "aff_link": "https://invl.me/clo8g3b"
+        },
+        {
+          "id": "bts_ph_03",
+          "title": "Oreo BTS Cookies 100g (Limited Edition Hotteok Flavor)",
+          "price": "₱89",
+          "original_price": "₱150",
+          "image_url": "https://down-ph.img.susercontent.com/file/ph-11134207-820li-mqzot87k34779f.webp",
+          "aff_link": "https://invl.me/clo8g38"
+        },
+        {
+          "id": "bts_ph_04",
+          "title": "Army BTS Washed Cotton Style Baseball Cap (Free Size)",
+          "price": "₱119",
+          "original_price": "₱220",
+          "image_url": "https://down-ph.img.susercontent.com/file/ph-11134207-820la-mstr00fmkg0792.webp",
+          "aff_link": "https://invl.me/clo8g32"
+        },
+        {
+          "id": "bts_ph_05",
+          "title": "BANGTAN 7 Member Arirang WORLD TOUR T-shirt (100% Cotton)",
+          "price": "₱169",
+          "original_price": "₱300",
+          "image_url": "https://down-ph.img.susercontent.com/file/ph-11134207-820lb-mnl2zh79nzer1d.webp",
+          "aff_link": "https://invl.me/clo8g34"
+        }
+      ]
     },
     "com.shopee.th": {
       "badge_text": "สินค้า BTS แนะนำ • สปอนเซอร์",
@@ -75,18 +116,100 @@
       "badge_text": "BTS Picks • Sponsored",
       "headline": "Exclusive BTS ARMY Merch",
       "cta_text": "Shop on Shopee",
-      "items": []
+      "items": [
+        {
+          "id": "bts_my_01",
+          "title": "Pin Button Bros BTS Arirang Concert Souvenir Freebies (44mm)",
+          "price": "RM 2.50",
+          "original_price": "RM 5.00",
+          "image_url": "https://down-my.img.susercontent.com/file/id-11134201-81ztn-ms2zs2oyl8g1cf.webp",
+          "aff_link": "https://invl.me/clo8ftv"
+        },
+        {
+          "id": "bts_my_02",
+          "title": "20pcs BTS V2 Sticker Pack Aesthetic Waterproof Laptop Stickers",
+          "price": "RM 3.20",
+          "original_price": "RM 6.50",
+          "image_url": "https://down-my.img.susercontent.com/file/sg-11134201-8258j-mu1v3szrmnlvb3.webp",
+          "aff_link": "https://invl.me/clo8fu5"
+        },
+        {
+          "id": "bts_my_03",
+          "title": "KPOP BTS ARIRANG Vinyl Single Seal Acrylic Keychain CD Bag Charm",
+          "price": "RM 3.80",
+          "original_price": "RM 7.60",
+          "image_url": "https://down-my.img.susercontent.com/file/sg-11134201-82614-mm37m5a0m7lt4f.webp",
+          "aff_link": "https://invl.me/clo8fte"
+        },
+        {
+          "id": "bts_my_04",
+          "title": "BTS ARIRANG World Tour Group Badge Mirror Keychain Tinplate Brooch",
+          "price": "RM 4.20",
+          "original_price": "RM 8.50",
+          "image_url": "https://down-my.img.susercontent.com/file/sg-11134201-825a6-mu948qsv1d6q28.webp",
+          "aff_link": "https://invl.me/clo8fu3"
+        },
+        {
+          "id": "bts_my_05",
+          "title": "[Korean Oreo Edition] OREO x BTS Hotteok Flavor Cookies 100g",
+          "price": "RM 6.50",
+          "original_price": "RM 12.00",
+          "image_url": "https://down-my.img.susercontent.com/file/sg-11134207-824g8-mpuh8gc1ko3x4b.webp",
+          "aff_link": "https://invl.me/clo8fud"
+        }
+      ]
     },
     "com.shopee.sg": {
       "badge_text": "BTS Picks • Sponsored",
       "headline": "Top BTS ARMY Collectibles in SG",
       "cta_text": "Shop on Shopee",
-      "items": []
+      "items": [
+        {
+          "id": "bts_sg_01",
+          "title": "K-POP BTS ARIRANG Fan Concert Jungkook PVC Hand Held Fan",
+          "price": "S$ 2.50",
+          "original_price": "S$ 5.00",
+          "image_url": "https://down-sg.img.susercontent.com/file/cn-11134207-820l4-mmiblffbtwcv6b.webp",
+          "aff_link": "https://invl.me/clo8fz4"
+        },
+        {
+          "id": "bts_sg_02",
+          "title": "55pcs BTS ARIRANG Support LOMO Card Photo Card Box Set",
+          "price": "S$ 3.80",
+          "original_price": "S$ 7.50",
+          "image_url": "https://down-sg.img.susercontent.com/file/sg-11134201-8260j-mm8nk6rzliit55.webp",
+          "aff_link": "https://invl.me/clo8g02"
+        },
+        {
+          "id": "bts_sg_03",
+          "title": "BTS Mini Light Stick Concert Lightstick Mini Keychain Keyring",
+          "price": "S$ 4.20",
+          "original_price": "S$ 8.00",
+          "image_url": "https://down-sg.img.susercontent.com/file/sg-11134201-81zv8-mmwrzazplqtg92.webp",
+          "aff_link": "https://invl.me/clo8fzu"
+        },
+        {
+          "id": "bts_sg_04",
+          "title": "BTS Celebrity Creative Night Light Table Lamp (ARMY Bedside)",
+          "price": "S$ 6.90",
+          "original_price": "S$ 12.00",
+          "image_url": "https://down-sg.img.susercontent.com/file/3e8ce0a7038bcd7245b24f7dfda27658.webp",
+          "aff_link": "https://invl.me/clo8fzo"
+        },
+        {
+          "id": "bts_sg_05",
+          "title": "[Korean Edition] OREO BTS Hotteok Flavor Cookies (2 Boxes Set)",
+          "price": "S$ 8.50",
+          "original_price": "S$ 15.00",
+          "image_url": "https://down-sg.img.susercontent.com/file/sg-11134207-824hv-mpn36z4qitj477.webp",
+          "aff_link": "https://invl.me/clo8fyh"
+        }
+      ]
     },
     "com.shopee.tw": {
       "badge_text": "BTS 必買周邊 • 贊助",
       "headline": "熱門 BTS 防彈少年團周邊精選",
-      "cta_text": "前往蝦皮逛 văn",
+      "cta_text": "前往蝦皮逛逛",
       "items": []
     },
     "com.shopee.mx": {
@@ -97,3 +220,4 @@
     }
   }
 }
+
