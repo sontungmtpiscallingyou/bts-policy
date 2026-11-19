@@ -110,7 +110,48 @@
       "badge_text": "Achadinhos BTS • Patrocinado",
       "headline": "Colecionáveis BTS ARMY Favoritos",
       "cta_text": "Ver na Shopee",
-      "items": []
+      "items": [
+        {
+          "id": "bts_br_01",
+          "title": "Bolsa Grupo BTS Banda Transversal Shoulder Bag Tiracolo Pochete Dorama Unisex",
+          "price": "R$ 34,90",
+          "original_price": "R$ 59,90",
+          "image_url": "https://down-br.img.susercontent.com/file/sg-11134201-81zwh-mmvvb3kbeih2c1.webp",
+          "aff_link": "https://invl.app/clo9bto"
+        },
+        {
+          "id": "bts_br_02",
+          "title": "Caneca BTS Chibi 325ml Cerâmica Presente Army K-Pop I Purple You",
+          "price": "R$ 28,90",
+          "original_price": "R$ 45,00",
+          "image_url": "https://down-br.img.susercontent.com/file/br-11134207-820m1-mqwipq8rs5507f.webp",
+          "aff_link": "https://invl.app/clo9btr"
+        },
+        {
+          "id": "bts_br_03",
+          "title": "Caneca BTS Personalizável com Nome Kpop Army Arirang Tour Porcelana 325ml",
+          "price": "R$ 29,90",
+          "original_price": "R$ 49,90",
+          "image_url": "https://down-br.img.susercontent.com/file/br-11134201-820la-mtcjtlhcqosj34.webp",
+          "aff_link": "https://invl.app/clo9btu"
+        },
+        {
+          "id": "bts_br_04",
+          "title": "Chaveiro Temático BTS World Tour Arirang Chaveiro BTS Jimin V Jungkook Jin RM Suga J-hope",
+          "price": "R$ 14,90",
+          "original_price": "R$ 25,00",
+          "image_url": "https://down-br.img.susercontent.com/file/br-11134207-820lb-mmqcpy5m0ufa23.webp",
+          "aff_link": "https://invl.app/clo9bu0"
+        },
+        {
+          "id": "bts_br_05",
+          "title": "55 Photocards KPOP BTS Coleção HOOLIGAN Fotos Colecionáveis Lomo Cards",
+          "price": "R$ 19,90",
+          "original_price": "R$ 35,00",
+          "image_url": "https://down-br.img.susercontent.com/file/br-11134207-820lt-mpxrrsnczg1sa1.webp",
+          "aff_link": "https://invl.app/clo9bu1"
+        }
+      ]
     },
     "com.shopee.my": {
       "badge_text": "BTS Picks • Sponsored",
@@ -216,8 +257,48 @@
       "badge_text": "Colección BTS • Patrocinado",
       "headline": "Coleccionables BTS ARMY Favoritos",
       "cta_text": "Comprar en Shopee",
-      "items": []
+      "items": [
+        {
+          "id": "bts_mx_01",
+          "title": "Placas Decoración K-POP BTS ARIRANG",
+          "price": "$ 129",
+          "original_price": "$ 220",
+          "image_url": "https://down-mx.img.susercontent.com/file/br-11134207-820lg-mm7v5soasl5365.webp",
+          "aff_link": "https://invl.app/clo9bvh"
+        },
+        {
+          "id": "bts_mx_02",
+          "title": "Envío Inmediato BTS Lightstick Oficial Ver.4 ARMY BOMB Armybomb Kpop Light Stick Original",
+          "price": "$ 499",
+          "original_price": "$ 850",
+          "image_url": "https://down-mx.img.susercontent.com/file/sg-11134207-8258p-mv3bn3os05j9aa.webp",
+          "aff_link": "https://invl.app/clo9bvj"
+        },
+        {
+          "id": "bts_mx_03",
+          "title": "Sudadera De Canguro BTS Con Estampado De Nombre De Miembro Grupo Arang Estilo Kpop Coreano",
+          "price": "$ 289",
+          "original_price": "$ 450",
+          "image_url": "https://down-mx.img.susercontent.com/file/br-11134207-820lv-mmc6esxpurk7ca.webp",
+          "aff_link": "https://invl.app/clo9bvz"
+        },
+        {
+          "id": "bts_mx_04",
+          "title": "K-Pop BTS Tarjetero De PVC De Tres Pulgadas Estilo INS Para Guardar Y Exhibir Tarjetas Pequeñas",
+          "price": "$ 89",
+          "original_price": "$ 160",
+          "image_url": "https://down-mx.img.susercontent.com/file/cn-11134207-820l4-mqke90zlct8u2f.webp",
+          "aff_link": "https://invl.app/clo9bw1"
+        },
+        {
+          "id": "bts_mx_05",
+          "title": "BTS Jimin 2nd Solo Album Muse CD Álbum Oficial KPOP",
+          "price": "$ 450",
+          "original_price": "$ 690",
+          "image_url": "https://down-mx.img.susercontent.com/file/sg-11134207-7rdy6-lxge5t7qo1gm0d.webp",
+          "aff_link": "https://invl.app/clo9bw4"
+        }
+      ]
     }
   }
 }
-
