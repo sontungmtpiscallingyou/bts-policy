@@ -299,6 +299,53 @@
           "aff_link": "https://invl.app/clo9bw4"
         }
       ]
+    },
+    "com.myntra.android": {
+      "badge_text": "BTS Merch Picks • Sponsored",
+      "headline": "Top BTS & K-Pop Merch on Myntra",
+      "cta_text": "Shop on Myntra",
+      "items": [
+        {
+          "id": "bts_in_01",
+          "title": "Moda Rapido x Organic Chics Men Printed Hooded Sweatshirt",
+          "price": "₹699",
+          "original_price": "₹1,499",
+          "image_url": "https://assets.myntassets.com/h_200,w_200,c_fill,g_auto/h_1440,q_75,w_1080/v1/assets/images/2026/AUGUST/7/uUW310fs_488dde0d75c742ba820ac1a36d017a10.jpg",
+          "aff_link": "https://invl.me/cloa04n"
+        },
+        {
+          "id": "bts_in_02",
+          "title": "Brostin Men BTS Printed Baseball Cap",
+          "price": "₹299",
+          "original_price": "₹599",
+          "image_url": "https://assets.myntassets.com/h_200,w_200,c_fill,g_auto/h_1440,q_75,w_1080/v1/assets/images/2026/APRIL/27/iuSlEZKP_21950b241eb44b83ab9455a3747b0ec8.jpg",
+          "aff_link": "https://invl.me/cloa04s"
+        },
+        {
+          "id": "bts_in_03",
+          "title": "Russelmania Men BTS Graphic Printed Regular Fit T-Shirt",
+          "price": "₹399",
+          "original_price": "₹799",
+          "image_url": "https://assets.myntassets.com/h_200,w_200,c_fill,g_auto/h_1440,q_75,w_1080/v1/assets/images/2026/OCTOBER/27/1bc6a811a9ab4519a7639cc783bf5e9a.jpg",
+          "aff_link": "https://invl.me/cloa04t"
+        },
+        {
+          "id": "bts_in_04",
+          "title": "Organic Chics Men BTS Brand Logo Round Neck Regular Fit T-shirt",
+          "price": "₹449",
+          "original_price": "₹899",
+          "image_url": "https://assets.myntassets.com/h_200,w_200,c_fill,g_auto/h_1440,q_75,w_1080/v1/assets/images/2025/JULY/30/TYstvm09_71cfc087df86415d92d80507bac66407.jpg",
+          "aff_link": "https://invl.me/cloa04u"
+        },
+        {
+          "id": "bts_in_05",
+          "title": "CloBug Women BTS Graphic Printed Cotton T-Shirt",
+          "price": "₹349",
+          "original_price": "₹699",
+          "image_url": "https://assets.myntassets.com/h_200,w_200,c_fill,g_auto/h_1440,q_75,w_1080/v1/assets/images/2026/APRIL/18/ffteGCu4_6ef5ff8e158b4d03a9502f6bdf2adf95.jpg",
+          "aff_link": "https://invl.me/cloa04v"
+        }
+      ]
     }
   }
 }
